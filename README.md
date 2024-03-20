@@ -30,7 +30,7 @@ You can now apply Tailwind classes to a parent node that has an element child wi
 
 ## Demo
 
-[**Tailwind Play**](https://play.tailwindcss.com/6iJG2qn9re)
+[**Tailwind Play**](https://play.tailwindcss.com/KvDscGgo76)
 
 ```html
 <div class="p-3 relative rounded-lg focus-visible-within:outline focus-visible-within:outline-2 focus-visible-within:outline-blue-600">
