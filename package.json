@@ -1,0 +1,29 @@
+{
+  "name": "tailwindcss-focus-visible-within",
+  "version": "0.0.0-dev",
+  "description": "Simplifies targeting parent nodes with a child that has `:focus-visible` using TailwindCSS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudnode-pro/tailwindcss-focus-visible-within.git"
+  },
+  "keywords": [
+    "css",
+    "tailwind",
+    "tailwindcss",
+    "tailwind-css",
+    "tailwindcss-plugin"
+  ],
+  "author": "Cloudnode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudnode-pro/tailwindcss-focus-visible-within/issues"
+  },
+  "homepage": "https://github.com/cloudnode-pro/tailwindcss-focus-visible-within#readme",
+  "peerDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
