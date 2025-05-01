@@ -2,13 +2,24 @@
 
 This plugin allows you to target parent nodes with a child that has `:focus-visible`.
 
-## Usage
+## Installation
 
 Install as dev-dependency using:
 
 ```sh
 npm i -D tailwindcss-focus-visible-within
 ```
+
+### Tailwind CSS v4
+
+Add the plugin to your style sheet:
+
+```css
+@plugin "tailwindcss-focus-visible-within";
+```
+
+### Tailwind CSS v3
+
 Add the plugin to your `tailwind.config.js`:
 
 ```js
@@ -17,12 +28,15 @@ module.exports = {
     // …
   },
   plugins: [
-    require('tailwindcss-focus-visible-within')
+    require("tailwindcss-focus-visible-within")
     // …
   ],
 }
 ```
-You can now apply Tailwind classes to a parent node that has an element child with the `focus-visible` state.
+
+## Usage
+
+You can apply Tailwind CSS classes to a parent node that has an element child with the `focus-visible` state.
 
 ```html
 <div class="focus-visible-within:…">
