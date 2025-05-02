@@ -18,7 +18,7 @@
     "tailwindcss-plugin"
   ],
   "author": "Cloudnode",
-  "license": "MIT",
+  "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/cloudnode-pro/tailwindcss-focus-visible-within/issues"
   },
