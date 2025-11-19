@@ -12,11 +12,7 @@ npm i -D tailwindcss-focus-visible-within
 
 ### Tailwind CSS v4
 
-Add the plugin to your style sheet:
-
-```css
-@plugin "tailwindcss-focus-visible-within";
-```
+You **do not need this plugin** in Tailwind CSS v4! Use the built-in `has-focus-visible:*`, `group-has-focus-visible:*`, etc.!
 
 ### Tailwind CSS v3
 
